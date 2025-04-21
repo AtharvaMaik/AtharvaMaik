@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @AtharvaMaik
-- 👀 I’m interested in programming as a whole, looking for new ways to incorporate data into code
-- 🌱 I’m currently learning Java, python, HTML, CSS, JS, React, Node
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m atharva
+-  Professionalism is my forte, and well im dabbling in ML and Data Science
 - 📫 How to reach me https://www.linkedin.com/in/atharva-maikhuri/ or .clashking (discord)
 
 <!---
