@@ -34,7 +34,7 @@ The common thread: projects should be usable, explainable, and deployable. I lik
 
 </div>
 
-<sub>2026 stats generated from GitHub contribution data through 2026-04-23.</sub>
+<sub>2026 stats are regenerated automatically by GitHub Actions.</sub>
 
 
 ## ./projects
