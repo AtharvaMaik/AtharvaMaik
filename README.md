@@ -50,13 +50,29 @@ I care about taking projects beyond proof-of-concept: clear APIs, deployable fro
 
 ## GitHub Overview
 
-<div align="center">
+### 2026 Activity Snapshot
 
-![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvaMaik&show_icons=true&theme=tokyonight&hide_border=true)
+| Metric | Value |
+| --- | ---: |
+| Total contributions in 2026 | 83 |
+| Commit contributions in 2026 | 76 |
+| Repository contributions in 2026 | 7 |
+| Active contribution days in 2026 | 9 |
+| Best contribution day | 2026-04-23, 35 contributions |
+| Public repositories | 7 |
+| Public stars earned | 3 |
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaMaik&layout=compact&theme=tokyonight&hide_border=true)
+### Public Repository Languages
 
-</div>
+![Python](https://img.shields.io/badge/Python-1%20repo-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1%20repo-F7DF1E?logo=javascript&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-1%20repo-F37626?logo=jupyter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1%20repo-3178C6?logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-1%20repo-512BD4?logo=dotnet&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-1%20repo-E34F26?logo=html5&logoColor=white)
+
+<sub>Stats generated from GitHub contribution data for 2026 through 2026-04-23.</sub>
+
 
 ## Contact
 
