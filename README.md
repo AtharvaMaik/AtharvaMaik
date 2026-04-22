@@ -2,31 +2,22 @@
 
 # Atharva Maikhuri
 
-### ML experiments, full-stack builds, industrial simulators, and odd little systems that become real products.
+### Machine learning, full-stack engineering, and applied software systems.
 
-![Focus](https://img.shields.io/badge/Focus-ML%20%7C%20Data%20Science%20%7C%20Full--Stack-black)
-![Profile](https://img.shields.io/badge/Profile-Cyber%20Lab%20Dashboard-00c7b7)
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-RoBERTa%20%7C%20RAG%20%7C%20Recommenders-0f172a)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-React%20%7C%20FastAPI%20%7C%20Express-2563eb)
+![Industrial](https://img.shields.io/badge/Industrial%20Software-OPC%20UA%20%7C%20.NET-059669)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 </div>
 
-```text
-> booting atharva.dev
-> loading projects: AI detection, recommenders, OPC UA, private local AI, watchlists
-> status: building useful things with a little bit of chaos
-```
+## About
 
-## Command Center
+I build practical software projects that connect model behavior, product experience, and reliable backend systems. My current work spans AI text detection, recommendation engines, local AI experimentation, industrial simulation, and full-stack web applications.
 
-I build projects that sit somewhere between machine learning, product engineering, and practical demos:
+I care about taking projects beyond proof-of-concept: clear APIs, deployable frontends, documented setup paths, realistic data flows, and READMEs that make the engineering decisions easy to understand.
 
-- AI text detection with a fine-tuned RoBERTa pipeline, FastAPI, React, Vercel, and Hugging Face Spaces.
-- Ecommerce recommendation systems with TF-IDF, cosine similarity, SQLite, Express, and React.
-- Local AI/persona research workflows with private chat exports, RAG memory, Unsloth, Ollama, and WhatsApp automation.
-- Industrial simulation tools like a C#/.NET OPC UA server that exposes AML/MTP-style nodes for client testing.
-- Web apps with React, TypeScript, Supabase, Django, jQuery, Bootstrap, and a healthy appetite for shipping.
-
-## Project Arcade
+## Selected Projects
 
 | Mission | What it does | Stack |
 | --- | --- | --- |
@@ -37,7 +28,14 @@ I build projects that sit somewhere between machine learning, product engineerin
 | [TheHub](https://github.com/AtharvaMaik/TheHub) | Social movie watchlist app with auth, sharing, and real-time data. | React, TypeScript, Supabase |
 | [DjangoNotes](https://github.com/AtharvaMaik/DjangoNotes) | Minimal notes app with AJAX CRUD and REST-style endpoints. | Django, jQuery, Bootstrap |
 
-## Tech Radar
+## Technical Focus
+
+- Machine learning products: transformer inference, long-document processing, RAG workflows, model deployment, and responsible-use documentation.
+- Recommendation systems: TF-IDF, vector scoring, explainable ranking, user intent modeling, and stateful ecommerce flows.
+- Full-stack engineering: React, TypeScript, FastAPI, Express, Django, SQLite, Supabase, Docker, Vercel, and Hugging Face Spaces.
+- Industrial software: C#/.NET, WPF, OPC UA simulation, AML/MTP-style data parsing, and client integration testing.
+
+## Tools And Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -50,7 +48,7 @@ I build projects that sit somewhere between machine learning, product engineerin
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
-## Live Stats
+## GitHub Overview
 
 <div align="center">
 
@@ -60,12 +58,8 @@ I build projects that sit somewhere between machine learning, product engineerin
 
 </div>
 
-## Open Channels
+## Contact
 
 - LinkedIn: [atharva-maikhuri](https://www.linkedin.com/in/atharva-maikhuri/)
 - Discord: `.clashking`
 - GitHub: [AtharvaMaik](https://github.com/AtharvaMaik)
-
-```text
-> next objective: make the demo cleaner, the model sharper, and the README louder
-```
