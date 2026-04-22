@@ -2,7 +2,7 @@ import base64
 import json
 import os
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 USERNAME = os.environ.get("PROFILE_USERNAME", "AtharvaMaik")
 OUTPUT_PATH = os.environ.get("ACTIVITY_SVG_PATH", "assets/activity-2026.svg")
@@ -10,7 +10,7 @@ TOKEN = os.environ["GITHUB_TOKEN"]
 NOW = datetime.now(timezone.utc)
 YEAR = int(os.environ.get("PROFILE_STATS_YEAR", NOW.year))
 START = f"{YEAR}-01-01T00:00:00Z"
-END = NOW.strftime("%Y-%m-%dT%H:%M:%SZ")
+END = (NOW + timedelta(days=1)).strftime("%Y-%m-%dT23:59:59Z")
 TODAY = NOW.strftime("%Y-%m-%d")
 
 QUERY = """
