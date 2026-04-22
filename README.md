@@ -28,34 +28,14 @@ The common thread: projects should be usable, explainable, and deployable. I lik
 
 ## ./activity_2026
 
-<table>
-  <tr>
-    <td><b>Total Contributions</b></td>
-    <td><code>83</code></td>
-    <td><b>Commit Contributions</b></td>
-    <td><code>76</code></td>
-  </tr>
-  <tr>
-    <td><b>Repository Contributions</b></td>
-    <td><code>7</code></td>
-    <td><b>Active Days</b></td>
-    <td><code>9</code></td>
-  </tr>
-  <tr>
-    <td><b>Best Day</b></td>
-    <td><code>2026-04-23</code></td>
-    <td><b>Best Day Count</b></td>
-    <td><code>35</code></td>
-  </tr>
-  <tr>
-    <td><b>Public Repositories</b></td>
-    <td><code>7</code></td>
-    <td><b>Public Stars</b></td>
-    <td><code>3</code></td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="assets/activity-2026.svg" alt="Animated terminal panel with 2026 GitHub activity stats" width="100%" />
+
+</div>
 
 <sub>2026 stats generated from GitHub contribution data through 2026-04-23.</sub>
+
 
 ## ./projects
 
