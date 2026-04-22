@@ -1,41 +1,82 @@
 <div align="center">
 
-# Atharva Maikhuri
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f766e,100:2563eb&height=190&section=header&text=Atharva%20Maikhuri&fontColor=e5f3ff&fontSize=44&fontAlignY=36&desc=Machine%20Learning%20%7C%20Full-stack%20Engineering%20%7C%20Applied%20Systems&descSize=16&descAlignY=58" alt="Atharva Maikhuri" />
 
-### Machine learning, full-stack engineering, and applied software systems.
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-RoBERTa%20%7C%20RAG%20%7C%20Recommenders-0f172a)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-React%20%7C%20FastAPI%20%7C%20Express-2563eb)
-![Industrial](https://img.shields.io/badge/Industrial%20Software-OPC%20UA%20%7C%20.NET-059669)
-![License](https://img.shields.io/badge/License-MIT-green)
+![ML](https://img.shields.io/badge/ML-RoBERTa%20%7C%20RAG%20%7C%20Recommenders-111827?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-React%20%7C%20FastAPI%20%7C%20Express-0f766e?style=for-the-badge)
+![Systems](https://img.shields.io/badge/Systems-OPC%20UA%20%7C%20.NET-2563eb?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-16a34a?style=for-the-badge)
 
 </div>
 
-## About
+```bash
+atharva@github:~$ whoami
+Machine learning and full-stack engineer building deployed, documented, portfolio-ready systems.
 
-I build practical software projects that connect model behavior, product experience, and reliable backend systems. My current work spans AI text detection, recommendation engines, local AI experimentation, industrial simulation, and full-stack web applications.
+atharva@github:~$ focus --current
+AI text detection | recommendation engines | local AI workflows | industrial simulation | product-grade web apps
 
-I care about taking projects beyond proof-of-concept: clear APIs, deployable frontends, documented setup paths, realistic data flows, and READMEs that make the engineering decisions easy to understand.
+atharva@github:~$ status --2026
+83 contributions | 76 commits | 7 repository contributions | 9 active days | best day: 35 contributions on 2026-04-23
+```
 
-## Selected Projects
+## ./about
 
-| Mission | What it does | Stack |
+I build practical software projects that connect model behavior, product experience, and reliable backend systems. My work spans transformer inference, recommendation systems, private local AI experimentation, OPC UA simulation, and full-stack web applications.
+
+The common thread: projects should be usable, explainable, and deployable. I like clean APIs, clear setup paths, realistic data flows, and documentation that shows the engineering decisions instead of hiding them.
+
+## ./activity_2026
+
+<table>
+  <tr>
+    <td><b>Total Contributions</b></td>
+    <td><code>83</code></td>
+    <td><b>Commit Contributions</b></td>
+    <td><code>76</code></td>
+  </tr>
+  <tr>
+    <td><b>Repository Contributions</b></td>
+    <td><code>7</code></td>
+    <td><b>Active Days</b></td>
+    <td><code>9</code></td>
+  </tr>
+  <tr>
+    <td><b>Best Day</b></td>
+    <td><code>2026-04-23</code></td>
+    <td><b>Best Day Count</b></td>
+    <td><code>35</code></td>
+  </tr>
+  <tr>
+    <td><b>Public Repositories</b></td>
+    <td><code>7</code></td>
+    <td><b>Public Stars</b></td>
+    <td><code>3</code></td>
+  </tr>
+</table>
+
+<sub>2026 stats generated from GitHub contribution data through 2026-04-23.</sub>
+
+## ./projects
+
+| Project | Terminal summary | Stack |
 | --- | --- | --- |
-| [AIDetect](https://github.com/AtharvaMaik/AIDetect) | Full-stack AI-generated text detector with long-document chunking and suspicious-region grouping. | RoBERTa, FastAPI, React, Docker |
-| [EcomRec](https://github.com/AtharvaMaik/EcomRec) | Ecommerce storefront with explainable cart, history, and recent-view recommendations. | React, Express, SQLite, TF-IDF |
-| [COPYHERR](https://github.com/AtharvaMaik/COPYHERR) | Private local WhatsApp persona training and RAG experimentation engine. | Python, Node.js, Unsloth, Ollama |
-| [OPCUA-Server](https://github.com/AtharvaMaik/OPCUA-Server) | Windows simulator for exposing AML/MTP-style data as browsable OPC UA nodes. | C#, .NET, WPF, OPC UA |
-| [TheHub](https://github.com/AtharvaMaik/TheHub) | Social movie watchlist app with auth, sharing, and real-time data. | React, TypeScript, Supabase |
-| [DjangoNotes](https://github.com/AtharvaMaik/DjangoNotes) | Minimal notes app with AJAX CRUD and REST-style endpoints. | Django, jQuery, Bootstrap |
+| [`AIDetect`](https://github.com/AtharvaMaik/AIDetect) | Fine-tuned RoBERTa AI-text detector with chunked long-document inference and suspicious-region grouping. | RoBERTa, FastAPI, React, Docker |
+| [`EcomRec`](https://github.com/AtharvaMaik/EcomRec) | Ecommerce recommendation platform with explainable cart, history, and recent-view ranking. | React, Express, SQLite, TF-IDF |
+| [`COPYHERR`](https://github.com/AtharvaMaik/COPYHERR) | Private local WhatsApp persona training and RAG experimentation pipeline. | Python, Node.js, Unsloth, Ollama |
+| [`OPCUA-Server`](https://github.com/AtharvaMaik/OPCUA-Server) | Windows simulator for exposing AML/MTP-style data as browsable OPC UA nodes. | C#, .NET, WPF, OPC UA |
+| [`TheHub`](https://github.com/AtharvaMaik/TheHub) | Social movie watchlist app with auth, sharing, and real-time data. | React, TypeScript, Supabase |
+| [`DjangoNotes`](https://github.com/AtharvaMaik/DjangoNotes) | Minimal notes app with AJAX CRUD and REST-style endpoints. | Django, jQuery, Bootstrap |
 
-## Technical Focus
+## ./stack
 
-- Machine learning products: transformer inference, long-document processing, RAG workflows, model deployment, and responsible-use documentation.
-- Recommendation systems: TF-IDF, vector scoring, explainable ranking, user intent modeling, and stateful ecommerce flows.
-- Full-stack engineering: React, TypeScript, FastAPI, Express, Django, SQLite, Supabase, Docker, Vercel, and Hugging Face Spaces.
-- Industrial software: C#/.NET, WPF, OPC UA simulation, AML/MTP-style data parsing, and client integration testing.
-
-## Tools And Languages
+```text
+Languages       Python | JavaScript | TypeScript | C# | HTML | CSS | SQL
+Frontend        React | Vite | Tailwind CSS | Bootstrap | jQuery
+Backend         FastAPI | Express | Django | Supabase | SQLite
+ML / Data       Transformers | PyTorch | TF-IDF | RAG | Ollama | Unsloth
+Systems         .NET | WPF | OPC UA | Docker | Vercel | Hugging Face Spaces
+```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -45,37 +86,21 @@ I care about taking projects beyond proof-of-concept: clear APIs, deployable fro
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
-## GitHub Overview
+## ./contact
 
-### 2026 Activity Snapshot
+```bash
+atharva@github:~$ open channels
+linkedin  -> https://www.linkedin.com/in/atharva-maikhuri/
+discord   -> .clashking
+github    -> https://github.com/AtharvaMaik
+```
 
-| Metric | Value |
-| --- | ---: |
-| Total contributions in 2026 | 83 |
-| Commit contributions in 2026 | 76 |
-| Repository contributions in 2026 | 7 |
-| Active contribution days in 2026 | 9 |
-| Best contribution day | 2026-04-23, 35 contributions |
-| Public repositories | 7 |
-| Public stars earned | 3 |
+<div align="center">
 
-### Public Repository Languages
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,55:0f766e,100:020617&height=100&section=footer" alt="footer" />
 
-![Python](https://img.shields.io/badge/Python-1%20repo-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1%20repo-F7DF1E?logo=javascript&logoColor=black)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-1%20repo-F37626?logo=jupyter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1%20repo-3178C6?logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-1%20repo-512BD4?logo=dotnet&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-1%20repo-E34F26?logo=html5&logoColor=white)
-
-<sub>Stats generated from GitHub contribution data for 2026 through 2026-04-23.</sub>
-
-
-## Contact
-
-- LinkedIn: [atharva-maikhuri](https://www.linkedin.com/in/atharva-maikhuri/)
-- Discord: `.clashking`
-- GitHub: [AtharvaMaik](https://github.com/AtharvaMaik)
+</div>
