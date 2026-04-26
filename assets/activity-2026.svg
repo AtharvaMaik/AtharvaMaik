@@ -1,6 +1,6 @@
 <svg width="900" height="360" viewBox="0 0 900 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">AtharvaMaik 2026 GitHub activity terminal</title>
-  <desc id="desc">Animated terminal panel showing 112 total contributions, 107 commits, 5 repository contributions, 10 active days, best day 2026-04-23 with 73 contributions, 8 public repositories, and 3 public stars.</desc>
+  <desc id="desc">Animated terminal panel showing 116 total contributions, 110 commits, 6 repository contributions, 10 active days, best day 2026-04-23 with 73 contributions, 9 public repositories, and 3 public stars.</desc>
   <defs>
     <linearGradient id="panel" x1="0" x2="900" y1="0" y2="360" gradientUnits="userSpaceOnUse">
       <stop stop-color="#00040b"/>
@@ -39,7 +39,7 @@
       @keyframes draw { 0% { stroke-dashoffset: 520; opacity:.18; } 45%,65% { stroke-dashoffset: 0; opacity:.82; } 100% { stroke-dashoffset: -520; opacity:.18; } }
       @keyframes grow1 { 0%,100% { transform: scaleX(.18); } 45%,70% { transform: scaleX(1.00); } }
       @keyframes grow2 { 0%,100% { transform: scaleX(.16); } 45%,70% { transform: scaleX(1.00); } }
-      @keyframes grow3 { 0%,100% { transform: scaleX(.10); } 45%,70% { transform: scaleX(0.20); } }
+      @keyframes grow3 { 0%,100% { transform: scaleX(.10); } 45%,70% { transform: scaleX(0.24); } }
     </style>
   </defs>
 
@@ -68,11 +68,11 @@
 
     <g transform="translate(28 168)">
       <text x="0" y="0" class="mono label">total_contributions</text>
-      <text x="0" y="38" class="mono value">112</text>
+      <text x="0" y="38" class="mono value">116</text>
       <rect x="154" y="14" width="250" height="10" rx="5" fill="#071627"/>
       <rect class="bar1" x="154" y="14" width="250" height="10" rx="5" fill="#0891b2" filter="url(#glow)"/>
       <text x="0" y="78" class="mono label">commit_contributions</text>
-      <text x="0" y="116" class="mono value">107</text>
+      <text x="0" y="116" class="mono value">110</text>
       <rect x="154" y="92" width="250" height="10" rx="5" fill="#071627"/>
       <rect class="bar2" x="154" y="92" width="250" height="10" rx="5" fill="#0f766e" filter="url(#glow)"/>
     </g>
@@ -92,11 +92,11 @@
 
       <rect class="float1" x="162" y="108" width="158" height="86" rx="12" fill="#07111f" stroke="#1e3a8a"/>
       <text x="180" y="138" class="mono label">public_repos</text>
-      <text x="180" y="174" class="mono value">8</text>
+      <text x="180" y="174" class="mono value">9</text>
     </g>
 
     <path class="draw" d="M31 298 C132 252, 212 318, 312 268 S492 234, 590 270 S721 326, 818 258" stroke="#22d3ee" stroke-width="3" fill="none" filter="url(#glow)"/>
-    <text x="28" y="292" class="mono muted">repo_contributions=5</text>
+    <text x="28" y="292" class="mono muted">repo_contributions=6</text>
     <text x="702" y="292" class="mono muted">stars=3</text>
   </g>
 </svg>
