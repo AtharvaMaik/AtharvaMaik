@@ -1,93 +1,66 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f766e,100:2563eb&height=190&section=header&text=Atharva%20Maikhuri&fontColor=e5f3ff&fontSize=44&fontAlignY=36&desc=Applied%20ML%20%7C%20Analytics%20Platforms%20%7C%20Systems%20Engineering&descSize=16&descAlignY=58" alt="Atharva Maikhuri" />
-
-![ML](https://img.shields.io/badge/ML-RoBERTa%20%7C%20RAG%20%7C%20Recommenders-111827?style=for-the-badge)
-![Analytics](https://img.shields.io/badge/Analytics-ETL%20%7C%20Reporting%20%7C%20Power%20BI-0f766e?style=for-the-badge)
-![Systems](https://img.shields.io/badge/Systems-OPC%20UA%20%7C%20Reliability%20Ops-2563eb?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-16a34a?style=for-the-badge)
-
+  <h1>Atharva Maikhuri</h1>
+  <p><strong>Software engineering · applied ML · developer tools</strong></p>
+  <p>
+    <a href="https://www.linkedin.com/in/atharva-maikhuri/">LinkedIn</a> ·
+    <a href="mailto:atharvamaik200@gmail.com">Email</a> ·
+    <a href="https://github.com/AtharvaMaik">GitHub</a>
+  </p>
 </div>
 
-```bash
-atharva@github:~$ whoami
-Computer science engineer building deployed, documented systems across applied ML, analytics, automation, and full-stack product work.
+<p align="center">
+  <img src="assets/activity-2026.svg" alt="Live GitHub activity summary" width="100%" />
+</p>
 
-atharva@github:~$ focus --current
-AI text detection | alt-data reliability | reporting pipelines | resume automation | UI test frameworks
+<p align="center">
+  <sub>Contribution stats regenerate automatically every 6 hours.</sub>
+</p>
 
-atharva@github:~$ status --2026
-shipping more public repos, cleaner docs, and stronger end-to-end product builds
-```
+## What I build
 
-## ./about
+I make messy systems easier to use, trust, and ship — from AI developer tools and model-backed products to data reliability platforms and automation frameworks.
 
-I build practical software that connects model behavior, product experience, and reliable backend systems. My recent work spans local AI pipelines, recommendation systems, financial reporting and analytics workflows, UI automation, industrial simulation, and operator-facing full-stack apps.
+My strongest work is end-to-end: a useful interface, a real backend, observable behavior, and documentation someone else can actually run.
 
-The common thread: projects should be usable, explainable, and deployable. I like clean APIs, realistic data flows, sharp documentation, and systems that feel like they could survive real use instead of only demo day.
+## Selected work
 
-## ./activity_2026
+| Project | What it proves |
+| --- | --- |
+| [donecheck](https://github.com/AtharvaMaik/donecheck) | Local evidence receipts that let AI coding agents prove what they changed and verified. |
+| [PromptQueue](https://github.com/AtharvaMaik/PromptQueue) | A dependency-free Python scheduler for prompts waiting on AI rate-limit resets. |
+| [gh-suggest](https://github.com/AtharvaMaik/gh-suggest) | A GitHub CLI extension that turns staged local fixes into reviewable PR suggestions. |
+| [rtk](https://github.com/AtharvaMaik/rtk) | A single-binary Rust CLI proxy for reducing repetitive LLM token usage in developer workflows. |
+| [HFTminion](https://github.com/AtharvaMaik/HFTminion) | A data-reliability control plane with trust scoring, feed monitoring, and incident replay. |
+| [AIDetect](https://github.com/AtharvaMaik/AIDetect) | A deployed RoBERTa text detector with long-document inference and explainable suspicious spans. |
+| [ResumeGod](https://github.com/AtharvaMaik/ResumeGod) | A structured AI workflow that turns job descriptions and candidate evidence into targeted LaTeX resumes. |
 
-<div align="center">
+<details>
+<summary><strong>More builds</strong></summary>
 
-<img src="assets/activity-2026.svg" alt="Animated terminal panel with 2026 GitHub activity stats" width="100%" />
+- [fenn](https://github.com/AtharvaMaik/fenn) — Python framework for ML/DL workflows and LLM agents.
+- [securNet](https://github.com/AtharvaMaik/securNet) — security observability platform with metrics, logs, alerts, and incident simulation.
+- [AutoQart-UI](https://github.com/AtharvaMaik/AutoQart-UI) — Java/Selenium UI automation with smoke, regression, CI, and failure evidence.
+- [Financial Reporting and Analytics Hub](https://github.com/AtharvaMaik/Financial-Reporting-and-Analytics-Hub) — market-data ingestion and leadership reporting workflows.
+- [Valance](https://github.com/AtharvaMaik/Valance) — local-first Android expense manager built around privacy and on-device parsing.
+- [COPYHERR](https://github.com/AtharvaMaik/COPYHERR) — local WhatsApp persona-training pipeline with fine-tuning and retrieval memory.
+- [OPCUA-Server](https://github.com/AtharvaMaik/OPCUA-Server) — Windows simulator for AML/MTP data exposed as browsable OPC UA nodes.
+- [TheHub](https://github.com/AtharvaMaik/TheHub) · [EcomRec](https://github.com/AtharvaMaik/EcomRec) · [InvestPro](https://github.com/AtharvaMaik/InvestPro) · [RegimeGaurd](https://github.com/AtharvaMaik/RegimeGaurd) · [CurlSentinel](https://github.com/AtharvaMaik/CurlSentinel) · [DjangoNotes](https://github.com/AtharvaMaik/DjangoNotes) · [NoMoreShorts](https://github.com/AtharvaMaik/NoMoreShorts)
 
-</div>
+</details>
 
-<sub>2026 stats are regenerated automatically by GitHub Actions.</sub>
+## Stack
 
-## ./projects
+<p align="center">
+  <code>Python</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>Java</code> · <code>C#</code> · <code>SQL</code><br />
+  <code>FastAPI</code> · <code>React</code> · <code>Next.js</code> · <code>TensorFlow</code> · <code>PostgreSQL</code> · <code>Docker</code> · <code>Terraform</code> · <code>GitHub Actions</code>
+</p>
 
-| Project | Terminal summary | Stack |
-| --- | --- | --- |
-| [`Financial-Reporting-and-Analytics-Hub`](https://github.com/AtharvaMaik/Financial-Reporting-and-Analytics-Hub) | Reporting pipeline that ingests market and macro data, applies business overlays, and ships leadership-ready reporting packs. | Python, SQLite/Postgres, Power BI, Excel |
-| [`AutoQart-UI`](https://github.com/AtharvaMaik/AutoQart-UI) | Selenium/TestNG automation framework with page objects, evidence capture, and CI-friendly smoke/regression suites. | Java, Selenium, TestNG, Maven, Allure |
-| [`ResumeGod`](https://github.com/AtharvaMaik/ResumeGod) | Multi-stage resume tailoring system that parses JDs, orchestrates agent prompts, and compiles LaTeX resume output. | JavaScript, Python, n8n, LaTeX |
-| [`HFTminion`](https://github.com/AtharvaMaik/HFTminion) | Alt-data reliability control plane for research/trading teams with trust scoring, incident replay, and feature gating. | Next.js, FastAPI, Terraform, Docker |
-| [`InvestPro`](https://github.com/AtharvaMaik/InvestPro) | Rules-based equity research and portfolio-action engine for factor ranking, benchmarking, and backtesting. | Python, TypeScript, Quant Analytics |
-| [`AIDetect`](https://github.com/AtharvaMaik/AIDetect) | Fine-tuned RoBERTa AI-text detector with chunked long-document inference and suspicious-region grouping. | RoBERTa, FastAPI, React, Docker |
-| [`EcomRec`](https://github.com/AtharvaMaik/EcomRec) | Ecommerce recommendation platform with explainable cart, history, and recent-view ranking. | React, Express, SQLite, TF-IDF |
-| [`COPYHERR`](https://github.com/AtharvaMaik/COPYHERR) | Local WhatsApp persona training pipeline with fine-tuning, RAG memory, and relationship-aware context. | Python, Node.js, Unsloth, Ollama |
-| [`OPCUA-Server`](https://github.com/AtharvaMaik/OPCUA-Server) | Windows simulator for exposing AML/MTP-style data as browsable OPC UA nodes. | C#, .NET, WPF, OPC UA |
-| [`TheHub`](https://github.com/AtharvaMaik/TheHub) | Social movie watchlist app with auth, sharing, and real-time data. | React, TypeScript, Supabase |
-| [`DjangoNotes`](https://github.com/AtharvaMaik/DjangoNotes) | Minimal notes app with AJAX CRUD and REST-style endpoints. | Django, jQuery, Bootstrap |
+## Currently
 
-## ./stack
+- Studying Computer Science at Manipal Institute of Technology, Bengaluru.
+- Building practical systems across applied ML, backend engineering, data workflows, and developer experience.
+- Open to software engineering and machine learning internships from July–December 2026.
 
-```text
-Languages       Python | JavaScript | TypeScript | Java | C# | HTML | CSS | SQL
-Frontend        React | Vite | Tailwind CSS | Bootstrap | jQuery | Next.js
-Backend         FastAPI | Express | Django | Supabase | SQLite | PostgreSQL
-ML / Data       Transformers | PyTorch | TF-IDF | RAG | Ollama | Unsloth | Reporting ETL
-Automation      Selenium | TestNG | Maven | Allure | GitHub Actions | n8n
-Systems         .NET | WPF | OPC UA | Docker | Terraform | Vercel | Hugging Face Spaces
-```
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-
-## ./contact
-
-```bash
-atharva@github:~$ open channels
-linkedin   -> https://www.linkedin.com/in/atharva-maikhuri/
-instagram  -> https://www.instagram.com/atharva_maikhuri/
-discord    -> .clashking
-github     -> https://github.com/AtharvaMaik
-```
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,55:0f766e,100:020617&height=100&section=footer" alt="footer" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/AtharvaMaik?tab=repositories">Explore all repositories →</a>
+</p>
