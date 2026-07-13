@@ -1,0 +1,55 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Atharva Maikhuri — software engineering, applied ML, and developer tools</title>
+  <desc id="desc">A dark gradient hero with subtle moving signal lines and the text Atharva Maikhuri.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.52" stop-color="#0B1024"/>
+      <stop offset="1" stop-color="#071B2B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="100" y1="40" x2="1080" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.52" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .grid { animation: drift 18s linear infinite; }
+      .signal { animation: sweep 7s ease-in-out infinite; }
+      .signal2 { animation: sweep 9s ease-in-out infinite reverse; }
+      .dot { animation: pulse 3.2s ease-in-out infinite; transform-origin: center; }
+      @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-80px); } }
+      @keyframes sweep { 0%,100% { opacity:.12; transform: translateX(-30px); } 50% { opacity:.8; transform: translateX(30px); } }
+      @keyframes pulse { 0%,100% { opacity:.28; transform: scale(.8); } 50% { opacity:1; transform: scale(1.2); } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="280" rx="24" fill="url(#bg)"/>
+  <g class="grid" opacity=".18" stroke="#334155" stroke-width="1">
+    <path d="M0 56H1280M0 112H1280M0 168H1280M0 224H1280"/>
+    <path d="M80 0V280M160 0V280M240 0V280M320 0V280M400 0V280M480 0V280M560 0V280M640 0V280M720 0V280M800 0V280M880 0V280M960 0V280M1040 0V280M1120 0V280M1200 0V280"/>
+  </g>
+
+  <path class="signal" d="M-40 212C130 102 205 252 365 156C525 60 626 232 780 144C934 56 1038 178 1240 78" stroke="url(#accent)" stroke-width="2" opacity=".7" filter="url(#glow)"/>
+  <path class="signal2" d="M-30 238C132 152 230 250 390 194C550 138 690 242 836 188C982 134 1082 194 1240 148" stroke="#38BDF8" stroke-width="1.5" opacity=".38"/>
+  <circle class="dot" cx="365" cy="156" r="4" fill="#67E8F9" filter="url(#glow)"/>
+  <circle class="dot" cx="780" cy="144" r="4" fill="#5EEAD4" filter="url(#glow)" style="animation-delay:1.1s"/>
+  <circle class="dot" cx="1038" cy="178" r="3" fill="#A5B4FC" filter="url(#glow)" style="animation-delay:2s"/>
+
+  <g transform="translate(72 64)">
+    <rect width="72" height="28" rx="14" fill="#0F172A" stroke="#164E63"/>
+    <circle cx="18" cy="14" r="5" fill="#2DD4BF"/>
+    <text x="31" y="19" fill="#A5F3FC" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="700">BUILD</text>
+  </g>
+
+  <text x="72" y="156" fill="#F8FAFC" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="48" font-weight="800" letter-spacing="-1.5">ATHARVA MAIKHURI</text>
+  <text x="76" y="192" fill="#A5B4FC" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" letter-spacing="2.2">SOFTWARE ENGINEERING  /  APPLIED ML  /  DEVELOPER TOOLS</text>
+  <text x="76" y="232" fill="#94A3B8" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14">Turning messy systems into usable, observable software.</text>
+
+  <rect x="932" y="56" width="190" height="34" rx="17" fill="#0B2530" stroke="#115E59"/>
+  <circle cx="954" cy="73" r="5" fill="#34D399"/>
+  <text x="969" y="78" fill="#A7F3D0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">OPEN TO INTERNSHIPS</text>
+</svg>
