@@ -123,7 +123,6 @@ I build across applied ML, backend engineering, developer experience, and data r
 
 - Studying Computer Science at Manipal Institute of Technology, Bengaluru.
 - Building practical systems across applied ML, backend engineering, data workflows, and developer experience.
-- Open to software engineering and machine learning internships from July–December 2026.
 
 <p align="center">
   <a href="https://github.com/AtharvaMaik?tab=repositories">Explore all repositories →</a>
